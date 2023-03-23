@@ -11,5 +11,5 @@ Uma pagina de exposição de uma hamburgueria do nosso consagrado michael.espero
   
 # versionamento 
   > git e github
- 
-https://github.com/VitorOdorico/Michael-burgueria-LandingPage/issues/1#issue-1637650907
+  
+ ![Desktop - 1 (1)](https://user-images.githubusercontent.com/100388613/227234364-b7b72946-f949-4f3e-bfdc-29c767861853.png)
