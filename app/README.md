@@ -12,4 +12,4 @@ Uma pagina de exposição de uma hamburgueria do nosso consagrado michael.espero
 # versionamento 
   > git e github
  
- <img src="/app/src/img/designer.png">
+https://github.com/VitorOdorico/Michael-burgueria-LandingPage/issues/1#issue-1637650907
